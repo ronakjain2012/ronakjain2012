@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ronakjain2012 from India and working mostly on backend services and raw data
+- 👀 I’m interested in open source projects, music, and books
+- 🌱 I’m currently learning Python and Fastify 
+- 💞️ I’m looking to collaborate on E-commerece project
+- 📫 How to reach me on telegram @ronakjain2012
