@@ -6,12 +6,16 @@ Senior Software Engineer
 
 I've been learning code since 5 years and giving my services in various MNC companies. Currently, I'm working in Nagarro In last 5 years I have worked on PHP, Laravel, Yii 2, Android, Python, React JS, VueJS, NodeJS and little bit in cloud and flutter.
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [https://linktr.ee/ronakjain2012](http://linktr.ee/ronakjain2012)
-*   ✉️  You can contact me at [ronakjain2012@outlook.com](mailto:ronakjain2012@outlook.com)
-*   🧠  I'm learning Fastify
-*   🤝  I'm open to collaborating on NodeJS and ReactJS Projects<a href="https://www.github.com/ronakjain2012" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ronakjain2012?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>### Skills 
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [https://linktr.ee/ronakjain2012](http://linktr.ee/ronakjain2012)
+* ✉️  You can contact me at [ronakjain2012@outlook.com](mailto:ronakjain2012@outlook.com)
+* 🧠  I'm learning Fastify
+* 🤝  I'm open to collaborating on NodeJS and ReactJS Projects
+
+<a href="https://www.github.com/ronakjain2012" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ronakjain2012?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a>
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -39,27 +43,22 @@ I've been learning code since 5 years and giving my services in various MNC comp
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/631839675731935262" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.facebook.com/bokariaronak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/ronakjain2012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/ronakjain2012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/ronakjain2012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/5118013/ronak-bokaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/ronak_bokaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/ronakjain2012"><img src="https://github-readme-stats.vercel.app/api?username=ronakjain2012&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="ronakjain2012's GitHub stats" /></a><a
-                      href="http://www.github.com/ronakjain2012"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=ronakjain2012&stroke=000000&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a><a
-                      href="http://www.github.com/ronakjain2012"><img src="https://activity-graph.herokuapp.com/graph?username=ronakjain2012&bg_color=ffffff&color=000000&line=3382ed&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/ronakjain2012" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakjain2012&langs_count=10&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/ronakjain2012"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/631839675731935262" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/bokariaronak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ronakjain2012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ronakjain2012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ronakjain2012" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5118013/ronak-bokaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ronak_bokaria" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ronakjain2012"><img src="https://github-readme-stats.vercel.app/api?username=ronakjain2012&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="ronakjain2012's GitHub stats" /></a>
+
+<a href="http://www.github.com/ronakjain2012"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ronakjain2012&stroke=000000&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=000000&currStreakLabel=a855f7&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="http://www.github.com/ronakjain2012"><img src="https://activity-graph.herokuapp.com/graph?username=ronakjain2012&bg_color=ffffff&color=000000&line=3382ed&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/ronakjain2012" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakjain2012&langs_count=10&title_color=a855f7&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/ronakjain2012"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
