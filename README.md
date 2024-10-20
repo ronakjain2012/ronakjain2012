@@ -4,7 +4,7 @@ Hi 👋 My name is Ronak Bokaria
 Senior Software Engineer
 ------------------------
 
-I've been learning code since 5 years and giving my services in various MNC companies. Currently, I'm working in Nagarro In last 5 years I have worked on PHP, Laravel, Yii 2, Android, Python, React JS, VueJS, NodeJS and little bit in cloud and flutter.
+I've been learning code since 6 years and giving my services in various MNC companies. Currently, I'm working in Nagarro In last 5 years I have worked on PHP, Laravel, Yii 2, Android, Python, React JS, VueJS, NodeJS and little bit in cloud and flutter.
 
 # 💫 About Me:
 🌍 I'm based in India<br>🖥️ See my portfolio at https://linktr.ee/ronakjain2012<br>✉️ You can contact me at ronakjain2012@outlook.com<br>🧠 I'm learning Python and have exprince of 5+ Years as MERN & MEVN<br>🤝 I'm open to collaborating on NodeJS and ReactJS Projects<br>
@@ -19,9 +19,6 @@ I've been learning code since 5 years and giving my services in various MNC comp
 ![](https://github-readme-stats.vercel.app/api?username=ronakjain2012&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ronakjain2012&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakjain2012&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ronakjain2012&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=ronak_bokaria)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
